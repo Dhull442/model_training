@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>a_037.jpeg</filename>
+	<path>/home/dhull/tensorflow/training_model/images/train/a_037.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>16</ymin>
+			<xmax>442</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

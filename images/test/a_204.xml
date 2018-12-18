@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>a_204.jpeg</filename>
+	<path>/home/dhull/tensorflow/training_model/images/test/a_204.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>474</width>
+		<height>468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>34</ymin>
+			<xmax>474</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>
